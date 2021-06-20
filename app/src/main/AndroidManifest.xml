@@ -9,8 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MotionLayoutExample">
-        <activity android:name=".MotionHeaderWithText"
+        <activity android:name=".YoutubeAnimationExampleActivity"
             android:theme="@style/Theme.MaterialComponents.Light.ActionBar"/>
+        <activity
+            android:name=".MotionHeaderWithText"
+            android:theme="@style/Theme.MaterialComponents.Light.ActionBar" />
         <activity android:name=".FirstAnimationActivity" />
         <activity
             android:name=".TwitterSplashActivity"

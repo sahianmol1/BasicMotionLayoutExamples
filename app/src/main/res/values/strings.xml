@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MotionLayoutExample</string>
+    <string name="basic_animation">Basic Animation</string>
+    <string name="twitter_splash_screen">Twitter Splash Screen</string>
+</resources>
